@@ -1,1 +1,1 @@
-local uid = "YANTO"
+"YANTO"
